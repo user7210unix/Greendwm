@@ -50,17 +50,21 @@ ______ _____ ___________ _____ _      _____ _____
 
 </div>
       <a href="#---------1">
-      <img src="images/bar.png" align="left" alt="Rice Setup Preview" width="750" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+      <img src="images/bar.png" align="left" alt="Rice Setup Preview" width="550" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
-        <div style="display: flex; align-items: center; margin-bottom: 40px;">
+        <div style="display: flex; align-items: right; margin-bottom: 40px;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>🚀 Resource Efficiency</strong></p>
-    <p>Optimized for performance and minimal resource usage. On average, my setup consumes between <strong>150 MB and 300 MB of RAM</strong>, depending on the installed packages and background services. This lightweight configuration maximizes system resources for essential tasks and keeps everything running smoothly.</p>
-<h1>
-  
+    <p>Optimized for performance and minimal resource usage. On average, my setup consumes between <strong>150 MB and 300 MB of RAM</strong>, depending on the installed packages and background services. <p>
+      
+  <h1>
+        <p><strong>🏎️💨 Super Fast</strong></p>
+<div style="display: flex; align-items: left; margin-bottom: 40px;">
+  <div style="flex: 1; padding-right: 20px;">
+  <p>This lightweight configuration maximizes system resources for essential tasks and keeps everything running smoothly.</p>
 </div>
       <a href="#---------1">
-      <img src="images/bar2.png" align="right" alt="Rice Setup Preview" width="750" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+      <img src="images/bar2.png" align="right" alt="Rice Setup Preview" width="550" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
 </div> 
 
