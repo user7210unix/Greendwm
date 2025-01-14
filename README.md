@@ -56,16 +56,8 @@ ______ _____ ___________ _____ _      _____ _____
       <a href="#---------1">
       <img src="images/bar.png" align="left" alt="Rice Setup Preview" width="750" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
-</div> 
-  <div align="center">
-  <h2 style="font-size: 24px;">
-    <strong> <a href="https://tools.suckless.org/slstatus/" style="text-decoration: none; color: inherit;">
-      <img src="https://suckless.org/favicon.ico" alt="dwm Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
-      Dynamic Window Manager</a> 
-    </strong>
-  </h2>
+        
 </div>
-<h1>
       <a href="#---------1">
       <img src="images/bar2.png" align="right" alt="Rice Setup Preview" width="750" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
