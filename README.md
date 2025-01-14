@@ -21,7 +21,7 @@ ______ _____ ___________ _____ _      _____ _____
 
 
 <div align="center">
-  <h2 style="font-size: 24px;">
+  <h2 style="font-size: 44px;">
     <strong> <a href="https://suckless.org/" style="text-decoration: none; color: inherit;">
       <img src="https://suckless.org/favicon.ico" alt="dwm Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
       Dynamic Window Manager</a> 
@@ -30,7 +30,10 @@ ______ _____ ___________ _____ _      _____ _____
 </div>
 
 
-
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
 
 <h1>
@@ -38,7 +41,11 @@ ______ _____ ___________ _____ _      _____ _____
       <img src="images/image.png" align="right" alt="Rice Setup Preview" width="750" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
 </div>
 </div> 
-
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    
   
 ## ⚙️ Features
 - **Window Manager** :bento: [Dwm](https://dwm.suckless.org/)
@@ -47,7 +54,11 @@ ______ _____ ___________ _____ _      _____ _____
 - **Shell** :shell: [Fish](https://fishshell.com/)
 - **File Manager** :flower_playing_cards: [Thunar](https://docs.xfce.org/xfce/thunar/start)
 
-
+ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    
 </div>
       <a href="#---------1">
       <img src="images/bar.png" align="left" alt="Rice Setup Preview" width="550" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
@@ -56,7 +67,10 @@ ______ _____ ___________ _____ _      _____ _____
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>🚀 Resource Efficiency</strong></p>
     <p>Optimized for performance and minimal resource usage. On average, my setup consumes between <strong>150 MB and 300 MB of RAM</strong>, depending on the installed packages and background services. <p>
-      
+</div>
+    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
   <h1>
         <p><strong>🏎️💨 Super Fast</strong></p>
 <div style="display: flex; align-items: left; margin-bottom: 40px;">
@@ -69,8 +83,9 @@ ______ _____ ___________ _____ _      _____ _____
 </div> 
 
 
-
-
+    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+    
 ## 🔑 Key Bindings
 
 #### 📱 **Applications**
