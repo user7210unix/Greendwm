@@ -370,32 +370,61 @@ I personally use NetworkManager (and IWD as wireless back-end) with nm-applet,
 <details>
 <summary><b>3. Wallpapers</b></summary>
 
-| Wallpapers                                                                                                 | License                                                              | The path where it will be put |
-|:-----------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------|:------------------------------|
-| [batik-1_4K](https://github.com/owl4ce/dotfiles/releases/download/ng/batik-1_4K.jpg)                       | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) | `~/.wallpapers/mechanical`    |
-| [okita-souji_FHD](https://github.com/owl4ce/dotfiles/releases/download/ng/okita-souji_FHD.jpg)             | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) | `~/.wallpapers/mechanical`    |
-| [cherry-blossoms_FHD](https://github.com/owl4ce/dotfiles/releases/download/ng/cherry-blossoms_FHD.jpg)     | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) | `~/.wallpapers/eyecandy`      |
-| [floral-artistic-2_FHD](https://github.com/owl4ce/dotfiles/releases/download/ng/floral-artistic-2_FHD.jpg) | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) | `~/.wallpapers/eyecandy`      |
+|                                             Wallpapers                                                     |   The path where it will be put |
+|:-----------------------------------------------------------------------------------------------------------|:-------------|:-----------------|
+| [Forest2](https://raw.githubusercontent.com/user7210unix/Greendwm/refs/heads/main/wallpaper/Forest2.png)|                 | `~/.wallpapers/` |
+| [ForestMountain](https://raw.githubusercontent.com/user7210unix/Greendwm/refs/heads/main/wallpaper/ForestMountain.png) |  | `~/.wallpapers/` |
+| [Bambus](https://github.com/user7210unix/Greendwm/blob/main/wallpaper/bambus.jpg?raw=true)|                               | `~/.wallpapers/` |
+| [Bambus-forest](https://github.com/user7210unix/Greendwm/blob/main/wallpaper/bambusforest.png?raw=true) |                 | `~/.wallpapers/` |
+| [Bridge](https://github.com/user7210unix/Greendwm/blob/main/wallpaper/bridge.png?raw=true) |                              | `~/.wallpapers/` |
+| [Forest](https://github.com/user7210unix/Greendwm/blob/main/wallpaper/forest.png?raw=true) |                              | `~/.wallpapers/` |
+| [Light](https://github.com/user7210unix/Greendwm/blob/main/wallpaper/light.jpg?raw=true) |                                | `~/.wallpapers/` |
+| [Plants](https://github.com/user7210unix/Greendwm/blob/main/wallpaper/plants.png?raw=true) |                              | `~/.wallpapers/` |
+| [Yellow](https://github.com/user7210unix/Greendwm/blob/main/wallpaper/yellow.jpg?raw=true) |                              | `~/.wallpapers/` |
 
 > **DISCLAIMER!!!**  
 > I don't own the artworks (because I couldn't find the link to the originals),
-> so if you the owner of the artworks with proof and want me to remove it
 
 **Wget** all the above wallpapers and put them as instructed into the `~/.wallpapers` directory.
 
 ```bash
-💲 mkdir -pv ~/.wallpapers/{mechanical,eyecandy}
+💲 mkdir -pv ~/.wallpapers/
 ```
 
 ---
 
 ```bash
-💲 wget --no-hsts -cNP ~/.wallpapers/mechanical/ https://github.com/owl4ce/dotfiles/releases/download/ng/{batik-1_4K,okita-souji_FHD}.jpg
+💲 wget --no-hsts -cNP ~/.wallpapers/ https://raw.githubusercontent.com/user7210unix/Greendwm/refs/heads/main/wallpaper/Forest2.png
 ```
 
 ```bash
-💲 wget --no-hsts -cNP ~/.wallpapers/eyecandy/ https://github.com/owl4ce/dotfiles/releases/download/ng/{cherry-blossoms,floral-artistic-2}_FHD.jpg
+💲 wget --no-hsts -cNP ~/.wallpapers/ https://raw.githubusercontent.com/user7210unix/Greendwm/refs/heads/main/wallpaper/ForestMountain.png
 ```
+```bash
+💲 wget --no-hsts -cNP ~/.wallpapers/ https://github.com/user7210unix/Greendwm/blob/main/wallpaper/bambus.jpg?raw=true
+```
+```bash
+💲 wget --no-hsts -cNP ~/.wallpapers/ https://github.com/user7210unix/Greendwm/blob/main/wallpaper/bambusforest.png?raw=true
+```
+```bash
+💲 wget --no-hsts -cNP ~/.wallpapers/ https://github.com/user7210unix/Greendwm/blob/main/wallpaper/bridge.png?raw=true
+```
+```bash
+💲 wget --no-hsts -cNP ~/.wallpapers/ https://github.com/user7210unix/Greendwm/blob/main/wallpaper/forest.png?raw=true
+```
+
+```bash
+💲 wget --no-hsts -cNP ~/.wallpapers/ https://github.com/user7210unix/Greendwm/blob/main/wallpaper/light.jpg?raw=true
+```
+
+```bash
+💲 wget --no-hsts -cNP ~/.wallpapers/ https://github.com/user7210unix/Greendwm/blob/main/wallpaper/plants.png?raw=true
+```
+
+```bash
+💲 wget --no-hsts -cNP ~/.wallpapers/ https://github.com/user7210unix/Greendwm/blob/main/wallpaper/yellow.jpg?raw=true
+```
+
 
 <details>
 <summary><b>4. Extensions (URxvt)</b></summary>
@@ -428,24 +457,22 @@ I personally use NetworkManager (and IWD as wireless back-end) with nm-applet,
 <details>
 <summary><b>1. Synchronize minimal .files</b></summary>
 
-You can clone or [download as archive](https://github.com/owl4ce/dotfiles/releases/tag/ng).
-Then, put all the .files in the dotfiles directory into the user's home directory. Assume you
-clone it in the `~/Documents` directory. I recommend to synchronize with rsync program.
+You can clone or [download as archive](https://github.com/user7210unix/Greendwm/releases/download/1.0/Greendwm-main.zip).
+Then, put all the .files in the dotfiles directory into the user's home directory.
+
 
 ```sh
-💲 cd ~/Documents/
-```
-
-> This repository auto-mirrored to https://gitlab.com/owl4ce/dotfiles.git.
-
-```sh
-💲 git clone --depth 1 --recurse-submodules https://github.com/owl4ce/dotfiles.git
+ git clone --depth 1 --recurse-submodules https://github.com/user7210unix/Greendwm.git
 ```
 
 ```sh
-💲 rsync -avxHAXP --exclude-from=- dotfiles/. ~/ << "EXCLUDE"
-.git*
-LICENSE
-*.md
-EXTRA_JOYFUL
-EXCLUDE
+💲 cd ~/Greenwm/dwm
+```
+
+```sh
+💲 sudo make clean install && cd .. && slstatus && sudo make clean install && cd .. && dmenu && sudo make clean install && cd ..
+```
+
+```sh
+💲 mv picom ~/.config/ && mv .Xresources ~/ && mv ~/.xinitrc
+```
