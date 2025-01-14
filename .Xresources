@@ -1,7 +1,11 @@
-! X resource database.
-! https://github.com/owl4ce/dotfiles
-
-! URxvt configuration.
+! ██╗░░██╗██████╗░███████╗███████╗░██████╗░██╗░░░██╗██████╗░░██████╗███████╗███████╗
+! ╚██╗██╔╝██╔══██╗██╔════╝██╔════╝██╔═══██╗██║░░░██║██╔══██╗██╔════╝██╔════╝██╔════╝
+! ░╚███╔╝░██████╔╝█████╗░░███████╗██║░░░██║██║░░░██║██████╔╝██║░░░░░█████╗░░███████╗
+! ░██╔██╗░██╔══██╗██╔══╝░░╚════██║██║░░░██║██║░░░██║██╔══██╗██║░░░░░██╔══╝░░╚════██║
+! ██╔╝░██╗██║░░██║███████╗███████║╚██████╔╝╚██████╔╝██║░░██║╚██████╗███████╗███████║
+! ╚═╝░░╚═╝╚═╝░░╚═╝╚══════╝╚══════╝░╚═════╝░░╚═════╝░╚═╝░░╚═╝░╚═════╝╚══════╝╚══════╝
+!
+! ================= URXVT =================
 URxvt.font:                       xft:mplus Nerd Font Mono:size=16:autohint=true,\
                                   xft:Noto Color Emoji:size=19:antialias=false,\
                                   xft:Monospace:size=16:autohint=true,\
@@ -20,18 +24,18 @@ URxvt.urgentOnBell:               false
 URxvt.depth:                      32
 URxvt.iso14755:                   false
 URxvt.iconFile:                   /home/user/.icons/Gladient/terminal.png
-
+! ================= GLYPHS =================
 ! Uncomment below if too much font spacing, and fix glyphs performance issues.
 !URxvt.letterSpace:                -1
 !URxvt.skipBuiltinGlyphs:          true
-
+! ================= PRINT =================
 ! Disable printing the terminal contents when pressing PrintScreen.
 ! The strings will be interpreted as if typed into the shell as-is.
 URxvt.print-pipe:                 "cat >/dev/null"
-
+! ================= SCROLLBACK =================
 ! Clear the scrollback buffer cleanly, the shell built-in sequence replacement.
 URxvt.keysym.Control-Shift-L:     command:\033c
-
+! ================= EXTENSIONS =================
 ! URxvt extensions.
 URxvt.perl-ext-common:            default,matcher,resize-font,tabbedex
 
@@ -48,14 +52,14 @@ URxvt.keysym.Control-Shift-U:     matcher:select
 URxvt.url-launcher:               firefox
 URxvt.matcher.button:             1
 URxvt.matcher.rend.0:             Uline fg7
-
+! ================= RESIZE FONT EXTENSION =================
 ! Resize-font extension.
 URxvt.keysym.Control-minus:       resize-font:smaller
 URxvt.keysym.Control-plus:        resize-font:bigger
 URxvt.keysym.Control-equal:       resize-font:reset
 URxvt.keysym.Control-question:    resize-font:show
 URxvt.resize-font.step:           1
-
+! ================= OTHER SETTINGS =================
 ! Tabbed-extended extension.
 URxvt.tabbedex.no-tabbedex-keys:  yes
 URxvt.tabbedex.new-button:        false
@@ -78,7 +82,7 @@ URxvt.keysym.Control-Next:        tabbedex:next_tab
 URxvt.keysym.Control-Prior:       tabbedex:prev_tab
 URxvt.keysym.Control-Shift-Next:  tabbedex:move_tab_right
 URxvt.keysym.Control-Shift-Prior: tabbedex:move_tab_left
-
+! ================= COLOR SCHEMES =================
 ! Color schemes.
 #define black0                    [97]#040B0F
 #define black1                    #3B4252
