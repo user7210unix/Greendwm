@@ -81,13 +81,13 @@
 
   <h3>🔑 Key Bindings</h3>
   <ul>
-    <li><strong>$mod+q</strong> – Kill - Qurrent Application</li>
-    <li><strong>$mod+t</strong> – Open Rxvt - Terminal</li>
-    <li><strong>$mod+d</strong> – Open Dmenu - Application Menu</li>
-    <li><strong>$mod+f</strong> – Open Firefox - Browser</li>
-    <li><strong>$mod+e</strong> – Open PcmanFm - File Manager</li>
-    <li><strong>$mod+space</strong> – Floating Mode</li>
-    <li><strong>$mod+shift+p</strong> – Quit Dwm Session</li>
+    <li><strong>Super+q</strong> – Kill - Qurrent Application</li>
+    <li><strong>Super+t</strong> – Open Rxvt - Terminal</li>
+    <li><strong>Super+d</strong> – Open Dmenu - Application Menu</li>
+    <li><strong>Super+f</strong> – Open Firefox - Browser</li>
+    <li><strong>Super+e</strong> – Open PcmanFm - File Manager</li>
+    <li><strong>Super+space</strong> – Floating Mode</li>
+    <li><strong>Super+shift+p</strong> – Quit Dwm Session</li>
   </ul>
 </div>
 
