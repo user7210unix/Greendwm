@@ -73,6 +73,16 @@ CLICK OR TAP ❲☰❳ TO SHOW TABLE-OF-CONTENTS
 </div> 
 
 
+  <h1>
+        <p><strong>👁️ Center Neofetch</strong></p>
+<div style="display: flex; align-items: left; margin-bottom: 40px;">
+  <div style="flex: 1; padding-right: 20px;">
+  <p>Clean Neofetch Config also included a center script already included.</p>
+</div>
+      <a href="#---------1">
+      <img src="images/fetch.png" align="right" alt="Rice Setup Preview" width="550" style="display: block; margin: 32px auto; border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+</div>
+</div> 
     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
     
