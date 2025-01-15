@@ -52,7 +52,7 @@ CLICK OR TAP ❲☰❳ TO SHOW TABLE-OF-CONTENTS
         <div style="display: flex; align-items: right; margin-bottom: 40px;">
   <div style="flex: 1; padding-right: 20px;">
     <p><strong>🚀 Resource Efficiency</strong></p>
-    <p>Optimized for performance and minimal resource usage. On average, my setup consumes between <strong>150 MB and 300 MB of RAM</strong>, depending on the installed packages and background services. <p>
+    <p>Optimized for performance and minimal resource usage. <p>
 </div>
     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
     ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
