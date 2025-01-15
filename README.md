@@ -21,13 +21,16 @@
 
   <hr>
 
-  <h3>🚀 Features Breakdown</h3>
-  <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 40px;">
+ <div align="center">
+  <h2 style="font-size: 48px; color: #4CAF50;"><strong>💻 Dynamic Window Manager (DWM)</strong></h2>
+  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 40px; width: 80%; border-radius: 12px; border: 2px solid #4CAF50; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
     <div style="flex: 1; padding-right: 20px;">
-      <p><strong>🚀 Resource Efficiency</strong></p>
-      <p>Optimized for performance and minimal resource usage.</p>
+      <p style="font-size: 18px; color: #333; line-height: 1.6; font-family: 'Roboto', sans-serif;">
+        <span style="font-size: 24px; color: #FF5722;">⚡</span> 
+        DWM is a dynamic window manager for X11 that is optimized for performance. It's extremely lightweight and efficient, perfect for users who want a fast, minimal, and fully customizable environment.
+      </p>
     </div>
-    <img src="images/image.png" alt="Rice Setup Preview" width="750" style="border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+    <img src="images/image.png" alt="DWM Icon" width="750" style="border: 2px solid #4CAF50; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
   </div>
 
   <div align="center">
@@ -51,21 +54,28 @@
     </ul>
 
 
-  <h3><strong>👁️ Center Neofetch</strong></h3>
-  <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 40px;">
+  <h3 style="font-size: 32px; color: #4CAF50;"><strong>👁️ Neofetch - Clean and Centered</strong></h3>
+  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 40px; width: 80%; border-radius: 12px; border: 2px solid #2196F3; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
     <div style="flex: 1; padding-right: 20px;">
-      <p>Clean Neofetch config, including a center script for better display.</p>
+      <p style="font-size: 18px; color: #333; line-height: 1.6; font-family: 'Roboto', sans-serif;">
+        <span style="font-size: 24px; color: #2196F3;">🌟</span> 
+        The Neofetch configuration included in this setup is centered for a clean and aesthetic terminal output. Perfect for users who want an elegant system info display.
+      </p>
     </div>
-    <img src="images/fetch.png" alt="Neofetch Centered" width="550" style="border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+    <img src="images/fetch.png" alt="Neofetch Centered" width="550" style="border: 2px solid #2196F3; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
   </div>
 
-  <h3><strong>🏎️💨 Super Fast</strong></h3>
-  <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 40px;">
+   <h3 style="font-size: 32px; color: #4CAF50;"><strong>🏎️💨 Super Fast Configuration</strong></h3>
+  <div style="display: flex; align-items: center; justify-content: center; margin-bottom: 40px; width: 80%; border-radius: 12px; border: 2px solid #FFC107; padding: 20px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);">
     <div style="flex: 1; padding-right: 20px;">
-      <p>This lightweight configuration maximizes system resources for better performance.</p>
+      <p style="font-size: 18px; color: #333; line-height: 1.6; font-family: 'Roboto', sans-serif;">
+        <span style="font-size: 24px; color: #FFC107;">🚗</span> 
+        This lightweight configuration is designed to maximize system resources, ensuring a blazing-fast performance without any unnecessary bloat.
+      </p>
     </div>
-    <img src="images/speed.png" alt="Super Fast Setup" width="550" style="border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+    <img src="images/speed.png" alt="Super Fast Setup" width="550" style="border: 2px solid #FFC107; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
   </div>
+</div>
 
   <hr>
 
