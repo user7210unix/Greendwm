@@ -4,6 +4,8 @@
 
 #Default Config ->
 
+/usr/libexec/polkit-gnome-authentication-agent-1 &
+
 slstatus &
 
 picom &
