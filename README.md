@@ -92,7 +92,7 @@
 
 <h3>🛠️ Installation Guide</h3>
 
-<p><strong>Follow these steps to set up the dotfiles on your system:</strong></p>
+<p><strong>Click on the copy button and paste it in a terminal to set up the dotfiles on your system after that i recommand you to logout and type startx in the tty :</strong></p>
 
 ```bash
 git clone https://github.com/user7210unix/Greendwm && cd Greendwm && \
