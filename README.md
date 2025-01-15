@@ -73,41 +73,20 @@
 
 <p><strong>Follow these steps to set up the dotfiles on your system:</strong></p>
 
-<h4>Step 1: Move Configuration Files</h4>
-<pre>
-git clone https://github.com/user7210unix/Greendwm && cd Greendwm && mv config/picom ~/.config/ && mv config/neofetch ~/.config/
 </pre>
-
-<h4>Step 2: Install dwm</h4>
-<pre>
-cd dwm && sudo make clean install && cd ..
-</pre>
-
-<h4>Step 3: Install dmenu</h4>
-<pre>
-cd dmenu && sudo make clean install && cd ..
-</pre>
-
-<h4>Step 4: Install slstatus</h4>
-<pre>
-cd slstatus && sudo make clean install && cd ..
-</pre>
-
-<h4>Step 5: Move .Xresources and .xinitrc to Home Folder</h4>
-<pre>
-mv .Xresources ~/.Xresources
-mv .xinitrc ~/.xinitrc
-</pre>
-
-<h4>Step 6: Install Required Fonts</h4>
-<pre>
-mkdir -pv ~/.fonts && cd ~/.fonts
-wget https://github.com/owl4ce/dotfiles/releases/download/ng/Feather.ttf
-wget https://github.com/owl4ce/dotfiles/releases/download/ng/Material.ttf
-wget https://github.com/owl4ce/dotfiles/releases/download/ng/Iosevka.Nerd.Font.Complete.Mono.ttf
-wget https://github.com/owl4ce/dotfiles/releases/download/ng/M+.1mn.Nerd.Font.Complete.ttf
-wget https://github.com/owl4ce/dotfiles/releases/download/ng/M+.1mn.Nerd.Font.Complete.Mono.ttf
-fc-cache -vf && clear && echo "Fonts Installed 󱜙"
+git clone https://github.com/user7210unix/Greendwm && cd Greendwm && \
+mv config/picom ~/.config/ && mv config/neofetch ~/.config/ && \
+cd dwm && sudo make clean install && cd .. && \
+cd dmenu && sudo make clean install && cd .. && \
+cd slstatus && sudo make clean install && cd .. && \
+mv .Xresources ~/.Xresources && mv .xinitrc ~/.xinitrc && \
+mkdir -pv ~/.fonts && cd ~/.fonts && \
+wget https://github.com/owl4ce/dotfiles/releases/download/ng/Feather.ttf && \
+wget https://github.com/owl4ce/dotfiles/releases/download/ng/Material.ttf && \
+wget https://github.com/owl4ce/dotfiles/releases/download/ng/Iosevka.Nerd.Font.Complete.Mono.ttf && \
+wget https://github.com/owl4ce/dotfiles/releases/download/ng/M+.1mn.Nerd.Font.Complete.ttf && \
+wget https://github.com/owl4ce/dotfiles/releases/download/ng/M+.1mn.Nerd.Font.Complete.Mono.ttf && \
+fc-cache -vf && clear && echo "Fonts Installed"
 </pre>
 
 <hr>
