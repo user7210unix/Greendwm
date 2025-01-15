@@ -4,7 +4,7 @@
 
 #Default Config ->
 
-/usr/libexec/polkit-gnome-authentication-agent-1 &
+/usr/libexec/xfce-polkit &
 
 slstatus &
 
