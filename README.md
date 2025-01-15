@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2 style="font-size: 44px;">
+  <h2 style="font-size: 54px;">
     <strong>
       <a href="https://suckless.org/" style="text-decoration: none; color: inherit;">
         <img src="https://suckless.org/favicon.ico" alt="dwm Icon" style="vertical-align: middle; width: 24px; height: 24px; margin-right: 8px;">
@@ -73,7 +73,7 @@
 
 <p><strong>Follow these steps to set up the dotfiles on your system:</strong></p>
 
-</pre>
+```bash
 git clone https://github.com/user7210unix/Greendwm && cd Greendwm && \
 mv config/picom ~/.config/ && mv config/neofetch ~/.config/ && \
 cd dwm && sudo make clean install && cd .. && \
@@ -87,8 +87,3 @@ wget https://github.com/owl4ce/dotfiles/releases/download/ng/Iosevka.Nerd.Font.C
 wget https://github.com/owl4ce/dotfiles/releases/download/ng/M+.1mn.Nerd.Font.Complete.ttf && \
 wget https://github.com/owl4ce/dotfiles/releases/download/ng/M+.1mn.Nerd.Font.Complete.Mono.ttf && \
 fc-cache -vf && clear && echo "Fonts Installed"
-</pre>
-
-<hr>
-
-<p><strong>That's it! Now you're ready to enjoy a fast and resource-efficient setup. 🚀</strong></p>
