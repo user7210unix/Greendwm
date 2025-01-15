@@ -80,11 +80,14 @@
   <hr>
 
   <h3>🔑 Key Bindings</h3>
-  <h4>📱 Applications</h4>
   <ul>
-    <li><strong>$mod+q</strong> – Kill</li>
-    <li><strong>$mod+t</strong> – Open RXVT</li>
-    <li><strong>$mod+d</strong> – Open DMENU</li>
+    <li><strong>$mod+q</strong> – Kill - Qurrent Application</li>
+    <li><strong>$mod+t</strong> – Open Rxvt - Terminal</li>
+    <li><strong>$mod+d</strong> – Open Dmenu - Application Menu</li>
+    <li><strong>$mod+f</strong> – Open Firefox - Browser</li>
+    <li><strong>$mod+e</strong> – Open PcmanFm - File Manager</li>
+    <li><strong>$mod+space</strong> – Floating Mode</li>
+    <li><strong>$mod+shift+p</strong> – Quit Dwm Session</li>
   </ul>
 </div>
 
