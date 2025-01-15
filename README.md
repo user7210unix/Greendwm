@@ -14,9 +14,9 @@
   <ul>
     <li><strong>Window Manager</strong> :bento: <a href="https://dwm.suckless.org/">Dwm</a></li>
     <li><strong>Application Launcher</strong> :rocket: <a href="https://tools.suckless.org/dmenu/">Dmenu</a></li>
-    <li><strong>Terminal Emulator</strong> :leaves: <a href="http://software.schmorp.de/pkg/rxvt-unicode.html">Rxvt</a></li>
+    <li><strong>Terminal Emulator</strong> :leaves: <a href="http://software.schmorp.de/pkg/rxvt-unicode.html">Rxvt-unicode</a></li>
     <li><strong>Shell</strong> :shell: <a href="https://fishshell.com/">Fish</a></li>
-    <li><strong>File Manager</strong> :flower_playing_cards: <a href="https://docs.xfce.org/xfce/thunar/start">Thunar</a></li>
+    <li><strong>File Manager</strong> :flower_playing_cards: <a href="https://github.com/lxde/pcmanfm">PcmanFM</a></li>
   </ul>
 
   <hr>
