@@ -22,6 +22,12 @@ CLICK OR TAP ❲☰❳ TO SHOW TABLE-OF-CONTENTS
 
 ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
+## ⚙️ Features
+- **Window Manager** :bento: [Dwm](https://dwm.suckless.org/)
+- **Application Launcher** :rocket: [Dmenu](https://tools.suckless.org/dmenu/)
+- **Terminal Emulator** :leaves: [Rxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
+- **Shell** :shell: [Fish](https://fishshell.com/)
+- **File Manager** :flower_playing_cards: [Thunar](https://docs.xfce.org/xfce/thunar/start)
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
 
@@ -33,17 +39,7 @@ CLICK OR TAP ❲☰❳ TO SHOW TABLE-OF-CONTENTS
 </div> 
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-    
-  
-## ⚙️ Features
-- **Window Manager** :bento: [Dwm](https://dwm.suckless.org/)
-- **Application Launcher** :rocket: [Dmenu](https://tools.suckless.org/dmenu/)
-- **Terminal Emulator** :leaves: [Rxvt](http://software.schmorp.de/pkg/rxvt-unicode.html)
-- **Shell** :shell: [Fish](https://fishshell.com/)
-- **File Manager** :flower_playing_cards: [Thunar](https://docs.xfce.org/xfce/thunar/start)
-
+   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
   ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
    ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ 
