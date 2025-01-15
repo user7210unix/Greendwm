@@ -75,8 +75,7 @@
 
 <h4>Step 1: Move Configuration Files</h4>
 <pre>
-mv ~/config/picom ~/.config/
-mv ~/config/neofetch ~/.config/
+git clone https://github.com/user7210unix/Greendwm && cd Greendwm && mv config/picom ~/.config/ && mv config/neofetch ~/.config/
 </pre>
 
 <h4>Step 2: Install dwm</h4>
@@ -86,18 +85,18 @@ cd dwm && sudo make clean install && cd ..
 
 <h4>Step 3: Install dmenu</h4>
 <pre>
-cd dmenu && sudo make clean install
+cd dmenu && sudo make clean install && cd ..
 </pre>
 
 <h4>Step 4: Install slstatus</h4>
 <pre>
-cd slstatus && sudo make clean install
+cd slstatus && sudo make clean install && cd ..
 </pre>
 
 <h4>Step 5: Move .Xresources and .xinitrc to Home Folder</h4>
 <pre>
-mv ~/.config/Xresources ~/.Xresources
-mv ~/.config/xinitrc ~/.xinitrc
+mv .Xresources ~/.Xresources
+mv .xinitrc ~/.xinitrc
 </pre>
 
 <h4>Step 6: Install Required Fonts</h4>
