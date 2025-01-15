@@ -35,7 +35,7 @@
     <div style="flex: 1; padding-right: 20px;">
       <p>This lightweight bar for dwm is designed for low resource usage, unlike Polybar and others.</p>
     </div>
-    <img src="images/bar.png" alt="Slstatus Bar" width="550" style="border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
+    <img src="images/bar2.png" alt="Slstatus Bar" width="550" style="border: 2px solid #555; border-radius: 12px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);">
   </div>
 
   <h3><strong>👁️ Center Neofetch</strong></h3>
