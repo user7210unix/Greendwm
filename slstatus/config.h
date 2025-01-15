@@ -77,8 +77,12 @@ static const char mic[] = "muted=`wpctl get-volume @DEFAULT_AUDIO_SOURCE@ | awk 
                             fi";
 
 static const struct arg args[] = {
-    /* function format          argument */
-    { cpu_perc,             "CPU 󰻠 %s%%  ",      NULL },
-    { battery_perc,         "  %s%%  ",       "BAT0" },
-    { datetime,             "  %s",         "%a %F %T" }, /* Date time with this format: Day name YYYY-MM-DD 18:00:00 */
-};
+    /* function format               argument */
+    
+    { cpu_perc,             "  %s%%  ",           NULL }, 
+   
+    { battery_perc,         "  %s%%  ",          "BAT0" },
+
+    { datetime,             " %s",                "%H:%M  󰃭 %a %d/%m " },  // Added extra spaces before the date
+}; 
+
